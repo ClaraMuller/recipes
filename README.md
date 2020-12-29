@@ -8,3 +8,7 @@
 
 * [Cookies](./deserts/cookies.md)
 * [Tiramisu](./deserts/tiramisu.md)
+
+## Friandises
+
+* [Orangettes](./friandises/orangettes.md)

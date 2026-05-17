@@ -1,10 +1,10 @@
 # Moelleux chocolat (et gingembre)
 
-*C'est le gingembre frais qui donne du piquant à ce moelleux extrêmement léger, à croquer en haute occasion*
+*C'est le gingembre frais qui donne du piquant à ce moelleux extrêmement léger, à croquer en haute occasion*</br>
 *Pour un moelleux au chocolat simple, ne mettez pas les ingrédients optionels*
 
-* **Preparation**: 15min
-* **Cuisson**: 20min
+**Preparation**: 15min</br>
+**Cuisson**: 20min
 
 ### Ingredients
 

@@ -10,6 +10,7 @@
 * [Cookies](./deserts/cookies.md)
 * [Tiramisu](./deserts/tiramisu.md)
 * [Tartelettes au Carambar](./deserts/tartelettes_au_carambar.md)
+* [Gateau Chocolat Canelle](./deserts/chcolate-cake.md)
 
 ## Friandises
 
